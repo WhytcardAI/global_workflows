@@ -1,5 +1,4 @@
 ---
-name: brain-workflow
 description: Workflow pour consulter et enrichir le Brain local avant toute réponse
 ---
 

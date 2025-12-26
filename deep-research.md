@@ -1,5 +1,4 @@
 ---
-name: deep-research
 description: Recherche approfondie et réflexion structurée sur un sujet complexe
 ---
 
